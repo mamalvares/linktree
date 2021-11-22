@@ -153,6 +153,10 @@ body {
     margin-top: 15rem;
 }
 
+.lightsaber:hover {
+    cursor: pointer;
+}
+
 .lightsaber img {
     display: block;
     height: 200px;
